@@ -1,0 +1,4 @@
+streamlit
+pickle5
+pandas
+requests
